@@ -13,6 +13,7 @@ body {
 }
 
 header {
+    width: 100vw;
     background-color: black;
     padding: 5vh 0px;
     margin-bottom: 10px;
@@ -77,6 +78,7 @@ div#voltar > a {
 footer {
     color: white;
     text-align: center;
+    width: 100vw;
 }
 
 footer > h4 {

@@ -14,7 +14,7 @@ body {
 
 header {
     background-color: black;
-    width: 100%;
+    width: 100vw;
     height: 100px;
     padding: 10px;
     color: white;
@@ -112,6 +112,7 @@ div#cemv > ul > li {
 }
 
 footer {
+    width: 100vw;
     color: white;
     text-align: center;
 }
