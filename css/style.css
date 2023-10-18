@@ -38,6 +38,7 @@ header {
 }
 
 nav {
+    display: none;
     padding: 2em 0;
 }
 
@@ -68,6 +69,7 @@ nav ul li a {
     url(/img/pexels-junior-teixeira-2047905.jpg);
     background-size: cover;
     background-position: center center;
+    background-attachment: fixed;
     border-bottom: 3px solid #1e1b1d29;
 }
 
@@ -105,7 +107,7 @@ nav ul li a {
 
     
     background-color: rgb(12, 12, 12);
-    margin: 2em 0;
+    margin-bottom: 2em;
 }
 
 .text-sobre {
@@ -241,6 +243,7 @@ footer {
 .text-footer {
     width: 50%;
 }
+
 
 .text-footer ul {
     text-align: center;
