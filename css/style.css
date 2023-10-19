@@ -75,6 +75,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #ff9738;
+    transform: scale(1.1);
 }
 
 .text-banner {
