@@ -17,7 +17,7 @@ body {
 
 .back-banner {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), /* Gradiente transparente escuro */
-    url(/img/banner.png);
+    url(../img/banner.png);
     background-size: cover;
     background-attachment: fixed;
     background-position: center bottom;
@@ -133,7 +133,7 @@ nav ul li a:hover {
     justify-content: center;
     flex-direction: row;
 
-    background-image: url(/img/computador.jpg);
+    background-image: url(../img/computador.jpg);
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -185,7 +185,7 @@ nav ul li a:hover {
     background-color: rgba(0, 0, 0, 0.9);
 
     background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), /* Gradiente transparente escuro */
-    url(/img/servicos.jpg);
+    url(../img/servicos.jpg);
     background-position: center top;
     box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.427);
     height: 755px;
